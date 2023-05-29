@@ -46,9 +46,9 @@ the details about the match we stored in that match
  4. To get past matches, make a get request on
     - http://localhost:3000/past-matches/
  5. To get match by date, make a get request on
-    - http://localhost:3000/matches/(*Enter Date*)
+    - http://localhost:3000/matches/(*Enter-Date*)
  6. To get any team's performance, make a get request on
-    - http://localhost:3000/past-matches/(*Enter team's name*)
+    - http://localhost:3000/past-matches/(*Enter-team-name*)
  
 
    
