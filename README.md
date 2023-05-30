@@ -32,6 +32,7 @@ the details about the match we stored in that match
    - npm i mongodb
    - npm i mongoose
    - npm i mongoose-unique-validator
+   - npm i nodemon
 5. Open the project and navigate inside the src folder
 6. Run 'nodemon app.js' to the start.
  }
